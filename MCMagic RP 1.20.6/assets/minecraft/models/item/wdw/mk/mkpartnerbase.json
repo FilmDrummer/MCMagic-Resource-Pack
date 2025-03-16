@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/black_terracotta",
 		"1": "block/bone_block_side",
-		"2": "block/custom/dlr/mainstreet/partnerstatue",
+		"2": "custom/partnerstatue",
 		"particle": "block/black_terracotta"
 	},
 	"elements": [
